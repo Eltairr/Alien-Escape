@@ -2,7 +2,10 @@
 
 A fast-paced 2D top-down shooter built in Unity. Clear each level by eliminating all enemies as quickly as possible — your **best completion time per level** is saved locally as a personal best.
 
-🎥 **Demo video:** https://www.youtube.com/watch?v=5BVHF9wCfT0
+🎥 **Demo video:**
+
+[![Alien Escape Demo](https://img.youtube.com/vi/5BVHF9wCfT0/0.jpg)](https://www.youtube.com/watch?v=5BVHF9wCfT0)
+
 
 ---
 
